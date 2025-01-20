@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Lexend+Exa:wght@100..900&display=swap');
+
+@layer base {
+  :root {
+    --background: #1D2B53;
+    --foreground: #7E2553;
+    --primary: #FF004D;
+    --secondary: #FAEF5D;
+    --accent: #F3F8FF;
+    --title: "Bangers", serif;
+    --body: "Lexend Exa", serif;
+  }
+}
